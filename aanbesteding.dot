@@ -1,0 +1,17 @@
+digraph{
+
+  "grote aanbesteding" -> "onbetaald voorstel";
+  "onbetaald voorstel" -> "alleen grote partij";
+  "alleen grote partij"-> "weinig partijen";
+  "weinig partijen" -> "risico's uitsluiten"
+ "grote aanbesteding" -> "vroeg inschatten";
+ "grote aanbesteding" -> "software inschatten is moeilijk"
+ "software inschatten is moeilijk" -> "hoe groter hoe moeilijker" 
+"hoe groter hoe moeilijker" -> "slechte schatting"
+"vroeg inschatten" -> "slechte schatting"
+"slechte schatting" -> "risico's uitsluiten"
+"risico's uitsluiten" -> "meer details"
+"meer details" -> "duurder"
+"duurder" -> "meer overhead"
+"meer overhead" -> "grote aanbesteding"
+}
