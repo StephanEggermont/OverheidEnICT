@@ -1,7 +1,7 @@
 # Overheid en ICT
 
 De hoorzittingen van de tijdelijke commissie ICT gaven een fascinerend beeld
-(beginnend met https://www.youtube.com/watch?v=a7RK3TyMBIs) van
+(beginnend met https://www.youtube.com/watch?v=HlSvmlzgUhw) van
 de manier waarop met ICT wordt omgegaan door de rijksoverheid. Na een paar
 interviews viel me op dat ieder een deel van de puzzel in handen had.
 Ik keek dan ook uit naar het eindrapport van de commissie en de daaropvolgende
